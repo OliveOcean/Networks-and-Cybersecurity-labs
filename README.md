@@ -12,3 +12,5 @@ A repo of all my computer networking and Cybersecurity labs and projects
 [Labs 5-12](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US): I completed 7 labs which were an essential part of the _"Introduction to Cybersecurity"_ course offered by Cisco, [verification](https://www.credly.com/badges/c41e91f4-236d-4493-af5c-727b87dfb2bb/public_url)
  
 [Labs 12-24](https://www.netacad.com/courses/networking-basics?courseLang=en-US): Completed 13 labs from the _"Networking Basics"_ course offered by Cisco, [verification](https://www.credly.com/badges/9cd08b81-e3be-43ab-9f37-1cd1230a6308/public_url) (Note: One of these labs is [Lab 1](https://github.com/EngMostafaSherif/Networks-and-Cybersecurity-labs/blob/main/Lab%201.jpeg) which I posted way back.)
+
+[Lab 25](https://github.com/OliveOcean/Networks-and-Cybersecurity-labs/blob/main/Lab%2025.pkt): A basic routing configuration using static routing.
